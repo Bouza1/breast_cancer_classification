@@ -8,11 +8,12 @@
 - Proposed Machine Learning Workflow
   - PMLW_evaluation.ipynb
 
-
 # Dataset
-References to the dataset refer to the dataset seen below. The Dataset is an altered version of the more commonly known [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic).
+References to the dataset refer to the dataset seen below. A detailed data analysis and exploration of the dataset can be seen in the data_exploration.ipynb. 
 
 ![image](https://github.com/Bouza1/breast_cancer_classification/assets/97123953/8bda2e0d-8fb8-4a27-8a4c-f72f892eea65)
+
+The Dataset is an altered version of the more commonly known [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic).
 
 # Current Machine Learning Workflow (CMLW)
 The current machine learning work flow can be seen in its entirity below. With an evaluation found in the CMLW_evaluation.ipynb file.
