@@ -41,6 +41,5 @@ print("Accuracy: %s" % (metrics.accuracy_score(y_test, y_pred)*100))
 
 # Proposed Machine Learning Workflow (PMLW)
 An overview of the PMLW can be seen below, with a full implementation and evaluation found in the PMLW_evaluation.ipynb file.
-![image](https://github.com/Bouza1/breast_cancer_classification/assets/97123953/6df536bf-1c71-4d58-b692-efe0bc48582d)
 
-
+![Blank diagram - Page 1 (3)](https://github.com/Bouza1/breast_cancer_classification/assets/97123953/2cb65a2c-409e-4ea6-9d5a-8773346d359d)
