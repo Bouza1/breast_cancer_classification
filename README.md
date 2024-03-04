@@ -8,6 +8,9 @@
 - Proposed Machine Learning Workflow
   - PMLW_evaluation.ipynb
 
+# Overview
+The objective of this repository is to conduct an in-depth exploration of the dataset, seen below, and offer a comprehensive assessment of the current machine learning workflow (CMLW). Subsequently, a refined machine learning workflow is proposed (PMLW), tailored to rectify the shortcomings of the CMLW, while aligning with the characteristics of the dataset uncovered during the exploration.
+
 # Dataset
 References to the dataset refer to the dataset seen below. A detailed data analysis and exploration of the dataset can be seen in the data_exploration.ipynb. 
 
