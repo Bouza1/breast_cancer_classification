@@ -19,7 +19,7 @@ References to the dataset refer to the dataset seen below. A detailed data analy
 The Dataset is an altered version of the more commonly known [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic).
 
 # Current Machine Learning Workflow (CMLW)
-The current machine learning work flow can be seen in its entirity below. With an evaluation found in the CMLW_evaluation.ipynb file.
+The current machine learning work flow can be seen in its entirety below. With an evaluation found in the CMLW_evaluation.ipynb file.
 
 ``` python
 df = pd.read_csv('data/breast-cancer.csv')
