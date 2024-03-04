@@ -46,3 +46,11 @@ print("Accuracy: %s" % (metrics.accuracy_score(y_test, y_pred)*100))
 An overview of the PMLW can be seen below, with a full implementation and evaluation found in the PMLW_evaluation.ipynb file.
 
 ![Blank diagram](https://github.com/Bouza1/breast_cancer_classification/assets/97123953/34625376-fdac-4e35-8ea5-bd6d33a791b9)
+
+# References
+
+- Singh, D. and Singh, B. (2020) ‘Investigating the impact of data normalization on classification 
+performance’, Applied Soft Computing, 97, p. 105524. doi:10.1016/j.asoc.2019.105524.
+
+- Wu, O. 2023. Rethinking Class Imbalance in Machine Learning. arXiv preprint arXiv:2305.03900.
+
