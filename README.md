@@ -49,8 +49,40 @@ An overview of the PMLW can be seen below, with a full implementation and evalua
 
 # References
 
+- Acuña, E. and Rodriguez, C. (2004) ‘The treatment of missing values and its effect on classifier 
+accuracy’, Classification, Clustering, and Data Mining Applications, pp. 639–647. 
+doi:10.1007/978-3-642-17103-1_60. 
+
+- Anderson, W.F. et al. (2010) ‘Male breast cancer: A population-based comparison with female 
+breast cancer’, Journal of Clinical Oncology, 28(2), pp. 232–239. 
+doi:10.1200/jco.2009.23.8162. 
+
+- Bin Rafiq, R. et al. (2020) ‘Validation methods to promote real-world applicability of machine 
+learning in medicine’, 2020 3rd International Conference on Digital Medicine and Image 
+Processing [Preprint]. doi:10.1145/3441369.3441372. 
+
+- Chawla, N.V. et al. (2002) ‘Smote: Synthetic minority over-sampling technique’, Journal of 
+Artificial Intelligence Research, 16, pp. 321–357. doi:10.1613/jair.953. 
+
+- Gu, Q. et al. (2008) ‘Data mining on imbalanced data sets’, 2008 International Conference on 
+Advanced Computer Theory and Engineering [Preprint]. doi:10.1109/icacte.2008.26. 
+
+- Jadhav, A., Pramod, D. and Ramanathan, K. (2019) ‘Comparison of performance of data imputation 
+methods for numeric dataset’, Applied Artificial Intelligence, 33(10), pp. 913–933. 
+doi:10.1080/08839514.2019.1637138. 
+
+- Rahman, M.M., and Davis, D.N. (2013) ‘Addressing the class imbalance problem in medical 
+datasets’, International Journal of Machine Learning and Computing, pp. 224–228. 
+doi:10.7763/ijmlc.2013.v3.307. 
+
 - Singh, D. and Singh, B. (2020) ‘Investigating the impact of data normalization on classification 
-performance’, Applied Soft Computing, 97, p. 105524. doi:10.1016/j.asoc.2019.105524.
+performance’, Applied Soft Computing, 97, p. 105524. doi:10.1016/j.asoc.2019.105524. 
+
+- Singh, N. and Singh, P. (2021) ‘Exploring the effect of normalization on Medical Data 
+Classification’, 2021 International Conference on Artificial Intelligence and Machine Vision 
+(AIMV) [Preprint]. doi:10.1109/aimv53313.2021.9670938. 
+
+- Sultana, J. and Khader Jilani, A. (2018) ‘Predicting breast cancer using logistic regression and multiclass classifiers’, International Journal of Engineering &amp; Technology, 7(4.20), p. 22. 
+doi:10.14419/ijet.v7i4.20.22115. 
 
 - Wu, O. 2023. Rethinking Class Imbalance in Machine Learning. arXiv preprint arXiv:2305.03900.
-
